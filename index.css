@@ -1,0 +1,77 @@
+body{
+    margin: 0px;
+    text-align: center;
+}
+
+h1{
+    margin-top: 0px;
+    font-family: 'Rubik', sans-serif;
+}
+
+p{font-family: 'Nunito', sans-serif;}
+
+
+/******************* CLASS ****************************************/
+
+.top-container{
+    background-color: #EAFDFC;
+    position: relative;
+    height: 500px;
+    padding-top: 190px;
+}
+
+/*
+.middle-container{
+
+}
+
+.bottom-container{
+
+}*/
+
+.bottom-cloud{
+    position: absolute;
+    top: 240px;
+    left: 180px;
+    width: 350px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 230px;
+    top: 100px;
+    width: 400px;
+
+}
+
+.mountain{
+    position: absolute;
+    bottom: 0px;
+    left: 500px;
+    width: 1000px;
+}
+
+.profile-img{
+    width: 150px;
+    height: 150px;
+}
+
+.robot-img{
+    width: 250px;
+    height: 250px;
+}
+
+.lenguajes-img{
+    position: relative;
+    width: 50px;
+    height: 50px;
+    left: 27px;
+    padding-right: 50px;
+}
+
+.lenguajes{
+    display: inline-block;
+    width: 100px;
+}
+
+/******************* ID ****************************************/
